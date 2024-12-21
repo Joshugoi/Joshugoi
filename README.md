@@ -9,7 +9,7 @@
 
 <h2>🖥️ CyberSecurity Projects:</h2>
 
-  - <b>SOAR EDR</b>
+  - <b>[SOAR EDR](https://github.com/Joshugoi/SOAR-EDR)</b>
     - In this project, I created a SOAR and EDR solution with tools like LimaCharlie(agent & cloud-based sec platform), Tines, Microsoft Defender for Endpoint, and Elastic EDR. This project demonstrates how to automate security workflows, enhance threat detection, and optimize cybersecurity posture effectively. By integrating these tools, I enhanced threat mitigation strategies, provided real-time security insights, and streamlined the efficiency of security operations. 
 
 
