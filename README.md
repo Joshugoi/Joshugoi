@@ -31,7 +31,7 @@
   - <b> Website Development using AWS </b>
     - [Gotta put shit here too]
       
-  <b> Serverless Web App </b>
+  - <b> Serverless Web App </b>
     - [Gotta put shit here too]
 
 
