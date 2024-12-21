@@ -13,7 +13,7 @@
     - In this project, I created a SOAR and EDR solution with tools like LimaCharlie(agent & cloud-based sec platform), Tines, Microsoft Defender for Endpoint, and Elastic EDR. This project demonstrates how to automate security workflows, enhance threat detection, and optimize cybersecurity posture effectively. By integrating these tools, I enhanced threat mitigation strategies, provided real-time security insights, and streamlined the efficiency of security operations. 
 
 
-  - <b>SOC Automation</b>
+  - <b>[SOC Automation](https://github.com/Joshugoi/SOC-Automation-Project)</b>
     - This project focused on building a home lab utilizing tools like Wazuh for XDR threat detection, Shuffle for SOAR capabilities, and TheHive for case management, enabling centralized log collection, analysis, and incident management. The setup streamlined threat detection workflows and supported effective incident response processes. 
 
   - <b>Active Directory</b>
