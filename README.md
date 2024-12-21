@@ -19,6 +19,22 @@
 
 <h2>☁️ Cloud Projects:</h2>
 
+  - <b> Rapid Document Conversion </b>
+    - [Gotta put shit here too]
+      
+  - <b> Mass Emailing using AWS Lambda </b>
+    - [Gotta put shit here too]
+  
+  - <b> Windows Virtual Machine – Deployment  </b>
+    - [Gotta put shit here too]
+  
+  - <b> Website Development using AWS </b>
+    - [Gotta put shit here too]
+      
+  <b> Serverless Web App </b>
+    - [Gotta put shit here too]
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
