@@ -14,8 +14,10 @@
 
 
   - <b>[SOC Automation](https://github.com/Joshugoi/SOC-Automation-Project)</b>
+    - This project focused on building a home lab utilizing tools like Wazuh for XDR threat detection, Shuffle for SOAR capabilities, and TheHive for case management, enabling centralized log collection, analysis, and incident management. The setup streamlined threat detection workflows and supported effective incident response processes. 
 
   - <b>[Active Directory](https://github.com/Joshugoi/Active-Directory-Project)</b>
+    - For this project, I built an Active Directory environment using Windows Server with services like Group Policy, DNS, and DHCP. I integrated Splunk Free addition to ingest logs and generate actionable SIEM insights. To simulate attacks, I used Kali Linux for penetration testing and Atomic Red Team for generating adversary techniques mapped to the MITRE ATT&CK framework. Additionally, I employed tools like Wireshark and Sysmon to monitor and analyze system events.
 
 <h2>☁️ Cloud Projects:</h2>
 
