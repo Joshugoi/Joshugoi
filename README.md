@@ -1,4 +1,4 @@
-<h1>Hello, I'm Joshua!<br/><a href="https://github.com/Joshugoi"> AWS Application Developer</a>, <a href="www.linkedin.com/in/joshua-banh"> Aspiring Cybersecurity Professional</a>
+<h1>Hello, I'm Joshua!<br/><a href="https://github.com/Joshugoi"> AWS Cloud Application Developer (In Progress)</a>, <a href="https://www.linkedin.com/in/joshua-banh/"> Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
