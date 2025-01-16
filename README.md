@@ -10,37 +10,72 @@
 <h2>🖥️ CyberSecurity Projects:</h2>
 
   - <b>[SOAR EDR](https://github.com/Joshugoi/SOAR-EDR)</b>
-    - In this project, I created a SOAR and EDR solution with tools like LimaCharlie(agent & cloud-based sec platform), Tines, Microsoft Defender for Endpoint, and Elastic EDR. This project demonstrates how to automate security workflows, enhance threat detection, and optimize cybersecurity posture effectively. By integrating these tools, I enhanced threat mitigation strategies, provided real-time security insights, and streamlined the efficiency of security operations. 
+    - Objective: Develop a SOAR and EDR solution using LimaCharlie, Tines, Microsoft Defender for Endpoint, and Elastic EDR.
+    - Features:
+      - Automated security workflows for enhanced threat detection and mitigation.
+      - Real-time security insights and streamlined security operations.
+      - Outcome: Optimized cybersecurity posture through tool integration and workflow automation. 
 
 
   - <b>[SOC Automation](https://github.com/Joshugoi/SOC-Automation-Project)</b>
-    - This project focused on building a home lab utilizing tools like Wazuh for XDR threat detection, Shuffle for SOAR capabilities, and TheHive for case management, enabling centralized log collection, analysis, and incident management. The setup streamlined threat detection workflows and supported effective incident response processes. 
+    - Objective: Build a home SOC leveraging tools like Wazuh, Shuffle, and TheHive.
+    - Features:
+      - Centralized log collection and analysis with Wazuh for XDR threat detection.
+      - SOAR capabilities using Shuffle for automated workflows.
+      - Case management with TheHive to support effective incident response.
+      - Outcome: Streamlined threat detection workflows and improved incident response processes. 
 
   - <b>[Active Directory](https://github.com/Joshugoi/Active-Directory-Project)</b>
-    - I built an Active Directory environment using Windows Server with services like Group Policy, DNS, and DHCP for this project. I integrated Splunk Free addition to ingest logs and generate actionable SIEM insights. To simulate attacks, I used Kali Linux for penetration testing and Atomic Red Team for generating adversary techniques mapped to the MITRE ATT&CK framework. Additionally, I employed tools like Wireshark and Sysmon to monitor and analyze system events.
+    - Objective: Set up an Active Directory environment with integrated security monitoring.
+    - Features:
+      - Windows Server configuration with Group Policy, DNS, and DHCP.
+      - Log ingestion using Splunk Free edition for actionable SIEM insights.
+      - Attack simulation with Kali Linux and Atomic Red Team, mapped to MITRE ATT&CK.
+      - System monitoring using Wireshark and Sysmon.
+      - Outcome: Enhanced security monitoring and attack detection within an enterprise environment.
 
 <h2>☁️ Cloud Projects:</h2>
 
-  - <b> Rapid Document Conversion (In progress)  </b> 
-    - The goal is to create an AWS Lambda app for quick and accurate document conversion, such as HTML to PDF or Excel to Word. It enables content retrieval, formatting, and conversion for download or display. This app is ideal for job portals where users must convert resumes into various formats.
+  - <b> Rapid Document Conversion (In Progress)  </b> 
+    - objective: Develop an AWS Lambda app for converting documents (e.g., HTML to PDF, Excel to Word).
+    - Features: Enables content retrieval, formatting, and conversion for download or display.
+    - Use Case: Ideal for job portals requiring resume format conversion.
       
   - <b> Mass Emailing using AWS Lambda (In progress) </b>
-    - This project aims to send mass emails to a firm's customers. Using AWS Lambda with Simple Email Service (SES) and S3, you can create a cost-effective mass-mailing platform similar to MoonMail.
-  
+    - Objective: Create a cost-effective mass-emailing platform using AWS Lambda, SES, and S3.
+    - Features: Automates bulk email sending to customers.
+    - Inspiration: Similar to MoonMail, optimized for small firms.
+
   - <b> Windows Virtual Machine – Deployment (In progress)  </b>
-    - The goal is to deploy a Windows Virtual Machine with no violations securely. Amazon Lightsail simplifies VM deployment on AWS, offering an easy-to-use interface and resource optimization. It supports RDP client connections for seamless management.
+    - Objective: Deploy a Windows Virtual Machine securely using Amazon Lightsail.
+    - Features: Simplifies VM setup, resource optimization, and RDP client support.
+    - Use Case: Secure deployment with no violations.
   
   - <b> Website Development using AWS (In progress) </b>
-    - The goal is to develop a secure, reliable, user-friendly AWS website. AWS Lightsail, paired with EC2 or Lambda, offers SSD-based storage and pre-configured web development options. Applications include student management or expense tracking.
+    - Objective: Build a secure, user-friendly website using AWS Lightsail and EC2/Lambda.
+    - Features: SSD-based storage and pre-configured development options.
+    - Applications: Examples include student management or expense tracking system
       
   - <b> Serverless Web App (In progress) </b>
-    - The goal is to develop and deploy a secure serverless web app using AWS services like Amplify, Lambda, and Cognito. Amplify handles the front-end and hosting, Cognito manages authentication, DynamoDB provides storage, and Lambda with API Gateway powers the backend. Start with a simple app, such as an MI calculator, using HTML, JavaScript, CSS, and RESTful APIs.
+  
+    - Objective: Design a secure serverless web app using AWS Amplify, Cognito, Lambda, and DynamoDB.
+    - Features:
+      
+      - Front-end with Amplify
+      - Authentication with Cognito
+      - Storage via DynamoDB
+      - Backend powered by Lambda with API Gateway
+      - Example: MI calculator using HTML, JavaScript, CSS, and RESTful APIs.
 
   - <b> Real-time Data Processing Application (In progress) </b>
-    - The goal is to process high-volume data accurately in real-time. Using Amazon Kinesis Stream and AWS Lambda, create a stream to capture data from web sources. Lambda functions scale automatically with the stream. Data sources can include social media timelines or location-based data.
+    - Objective: Process high-volume data in real-time using Amazon Kinesis and AWS Lambda.
+    - Features: Captures data streams (e.g., social media timelines, location-based data).
+    - Scalability: Lambda functions scale automatically with stream activity.
 
   - <b> Customer Logic Workflow (In progress) </b>
-    - The goal is to design and deploy custom logic workflows triggered by events using AWS Lambda and SNS. Step Functions enable easy integration of Lambdas into workflows. This beginner-friendly project can be applied to shopping cart management, leveraging data from e-commerce sites for testing and validation.
+    - Objective: Design custom event-triggered workflows with AWS Lambda and SNS.
+    - Features: Integrate workflows using Step Functions for easy management.
+    - Use Case: Examples include shopping cart management for e-commerce sites.
 
 <h2> 🤳 Connect with me:</h2>
 
