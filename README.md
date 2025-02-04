@@ -16,7 +16,6 @@
       - Real-time security insights and streamlined security operations.
       - Outcome: Optimized cybersecurity posture through tool integration and workflow automation. 
 
-
   - <b>[SOC Automation](https://github.com/Joshugoi/SOC-Automation-Project)</b>
     - Objective: Build a home SOC leveraging tools like Wazuh, Shuffle, and TheHive.
     - Features:
@@ -34,48 +33,23 @@
       - System monitoring using Wireshark and Sysmon.
       - Outcome: Enhanced security monitoring and attack detection within an enterprise environment.
 
-<h2>☁️ Cloud Projects:</h2>
+<h2>☁️ AWS Cloud Projects:</h2>
 
-  - <b> Rapid Document Conversion (In Progress)  </b> 
-    - objective: Develop an AWS Lambda app for converting documents (e.g., HTML to PDF, Excel to Word).
-    - Features: Enables content retrieval, formatting, and conversion for download or display.
-    - Use Case: Ideal for job portals requiring resume format conversion.
-      
-  - <b> Mass Emailing using AWS Lambda (In progress) </b>
-    - Objective: Create a cost-effective mass-emailing platform using AWS Lambda, SES, and S3.
-    - Features: Automates bulk email sending to customers.
-    - Inspiration: Similar to MoonMail, optimized for small firms.
+  - <b> Future Project Plans </b>
+    - Hosting A Static Website
+    - Repair Techniques For Transportable Storage Devices
+    - Migration of MySQL Databases to Cloud AWS
+    - Website Monitoring
+    - Real-time Sentiment Analysis
+    - E-commerce Predictive Analytics
+    - Serverless Pipeline
+    - Covid-19 Data Querying System
+    - Movie Recommendation Engine
+    - Customer Segmentation
+    - Online Blood Bank System (Beginner)
+    - Online Book Store System (Beginner)
+    - Smart Chatbot (Beginner)
 
-  - <b> Windows Virtual Machine – Deployment (In progress)  </b>
-    - Objective: Deploy a Windows Virtual Machine securely using Amazon Lightsail.
-    - Features: Simplifies VM setup, resource optimization, and RDP client support.
-    - Use Case: Secure deployment with no violations.
-  
-  - <b> Website Development using AWS (In progress) </b>
-    - Objective: Build a secure, user-friendly website using AWS Lightsail and EC2/Lambda.
-    - Features: SSD-based storage and pre-configured development options.
-    - Applications: Examples include student management or expense tracking system
-      
-  - <b> Serverless Web App (In progress) </b>
-  
-    - Objective: Design a secure serverless web app using AWS Amplify, Cognito, Lambda, and DynamoDB.
-    - Features:
-      
-      - Front-end with Amplify
-      - Authentication with Cognito
-      - Storage via DynamoDB
-      - Backend powered by Lambda with API Gateway
-      - Example: MI calculator using HTML, JavaScript, CSS, and RESTful APIs.
-
-  - <b> Real-time Data Processing Application (In progress) </b>
-    - Objective: Process high-volume data in real-time using Amazon Kinesis and AWS Lambda.
-    - Features: Captures data streams (e.g., social media timelines, location-based data).
-    - Scalability: Lambda functions scale automatically with stream activity.
-
-  - <b> Customer Logic Workflow (In progress) </b>
-    - Objective: Design custom event-triggered workflows with AWS Lambda and SNS.
-    - Features: Integrate workflows using Step Functions for easy management.
-    - Use Case: Examples include shopping cart management for e-commerce sites.
 
 <h2> 🤳 Connect with me:</h2>
 
