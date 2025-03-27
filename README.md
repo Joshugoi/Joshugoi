@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - Cloud Capstone 1: Building a Customer Onboarding App (In progress)
+  - Cloud Capstone 1: Building a Customer Onboarding App
   - Cloud Capstone 2: Building and Deploying an Appointments Scheduler App (In progress) 
 
 
