@@ -4,7 +4,8 @@
 
 - <b>Python</b>
   - Cloud Capstone 1: Building a Customer Onboarding App
-  - Cloud Capstone 2: Building and Deploying an Appointments Scheduler App (In progress) 
+  - Cloud Capstone 2: Building and Deploying an Appointments Scheduler App (In progress)
+  - Bookbot: Built a book bot.
 
 
 <h2>🖥️ CyberSecurity Projects:</h2>
