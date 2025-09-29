@@ -1,10 +1,10 @@
-<h1>Hello, I'm Joshua!<br/><a href="https://github.com/Joshugoi"> AWS Cloud Application Developer (In Progress)</a>, <a href="https://www.linkedin.com/in/joshua-banh/"> Aspiring Cybersecurity Professional</a>
+<h1>Hello, I'm Joshua!<br/><a href="https://github.com/Joshugoi"> AWS Cloud Application Developer </a>, <a href="https://www.linkedin.com/in/joshua-banh/"> Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cloud Application Development Projects:</h2>
 
 - <b>Python</b>
   - Cloud Capstone 1: Building a Customer Onboarding App
-  - Cloud Capstone 2: Building and Deploying an Appointments Scheduler App (In progress)
+  - Cloud Capstone 2: Building and Deploying an Appointments Scheduler App 
   - Bookbot: Built a book bot.
 
 
@@ -33,23 +33,6 @@
       - Attack simulation with Kali Linux and Atomic Red Team, mapped to MITRE ATT&CK.
       - System monitoring using Wireshark and Sysmon.
       - Outcome: Enhanced security monitoring and attack detection within an enterprise environment.
-
-<h2>☁️ AWS Cloud Projects:</h2>
-
-  - <b> Future Project Plans </b>
-    - Hosting A Static Website
-    - Repair Techniques For Transportable Storage Devices
-    - Migration of MySQL Databases to Cloud AWS
-    - Website Monitoring
-    - Real-time Sentiment Analysis
-    - E-commerce Predictive Analytics
-    - Serverless Pipeline
-    - Covid-19 Data Querying System
-    - Movie Recommendation Engine
-    - Customer Segmentation
-    - Online Blood Bank System (Beginner)
-    - Online Book Store System (Beginner)
-    - Smart Chatbot (Beginner)
 
 
 <h2> 🤳 Connect with me:</h2>
