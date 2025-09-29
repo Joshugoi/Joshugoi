@@ -45,6 +45,6 @@ These projects focus on building defense-in-depth security architectures, threat
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joshua-banh" alt="JoshuaBanh | LinkedIn">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg%3Fcolor%3Dffffff"
 </a>
 </p>
