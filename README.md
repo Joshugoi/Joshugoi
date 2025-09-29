@@ -1,10 +1,8 @@
 <h1>Hello, I'm Joshua!</h1>
 <p>
 <a href="https://github.com/Joshugoi">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS%2520Cloud%2520Application%2520Developer-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite" alt="Cloud Application Developer Badge">
 </a>
 <a href="https://www.google.com/search?q=https://www.credly.com/users/joshua-banh/badges">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Certified%2520Security-007ACC%3Fstyle%3Dfor-the-badge%26logo%3DcompTIA%26logoColor%3Dwhite" alt="Security Certified Badge">
 </a>
 </p>
 
@@ -40,11 +38,3 @@ These projects focus on building defense-in-depth security architectures, threat
 - Objective: Established a monitored Active Directory environment to practice vulnerability analysis and detection engineering.
 
 - Key Features: Configured Windows Server (GPO, DNS, DHCP), ingested logs into Splunk Free, and performed MITRE ATT&CK-mapped attack simulations using Kali Linux and Atomic Red Team.
-
-<h2> 🤳 Connect with me:</h2>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/joshua-banh" alt="JoshuaBanh | LinkedIn">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg%3Fcolor%3Dffffff" width="32px" />
-</a>
-</p>
