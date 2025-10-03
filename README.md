@@ -9,12 +9,12 @@
 <h2>☁️ Cloud Application & DevOps Projects</h2>
 These projects demonstrate hands-on experience in building, containerizing, and automating the deployment of scalable applications on AWS.
 
-### Appointments Scheduler App
+<br>[Appointments Scheduler App](https://github.com/Joshugoi/Appointment-Scheduler-App)</b>
 - Key Technologies: EKS, CI/CD (CodePipeline/Build), Docker, Django
 
 - Description: Engineered a full CI/CD pipeline to automate testing and deployment for a Python/Django application. Successfully containerized the application and deployed it to a scalable Amazon EKS (Kubernetes) cluster, fronted by an ALB.
 
-### Customer Onboarding App
+<br>Customer Onboarding App
  - Key Technologies: Lambda, API Gateway, S3, Textract, Rekognition
 
 - Description: Developed a secure, serverless backend to automate document validation. Used AWS Lambda and SQS for asynchronous processing, and integrated Amazon Textract and Rekognition for automated data extraction and facial verification.
