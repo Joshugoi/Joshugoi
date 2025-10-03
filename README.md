@@ -14,7 +14,7 @@ These projects demonstrate hands-on experience in building, containerizing, and 
 
 - Description: Engineered a full CI/CD pipeline to automate testing and deployment for a Python/Django application. Successfully containerized the application and deployed it to a scalable Amazon EKS (Kubernetes) cluster, fronted by an ALB.
 
-<br>Customer Onboarding App
+<br>[Customer Onboarding App](https://github.com/Joshugoi/Capestone1-Onboarding-Customer---AWS)</br>
  - Key Technologies: Lambda, API Gateway, S3, Textract, Rekognition
 
 - Description: Developed a secure, serverless backend to automate document validation. Used AWS Lambda and SQS for asynchronous processing, and integrated Amazon Textract and Rekognition for automated data extraction and facial verification.
