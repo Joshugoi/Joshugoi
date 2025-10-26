@@ -6,7 +6,7 @@
 </a>
 </p>
 
-<h2>☁️ Cloud Application & DevOps Projects</h2>
+<h2>☁️ Cloud Engineer & DevOps Projects</h2>
 These projects demonstrate hands-on experience in building, containerizing, and automating the deployment of scalable applications on AWS.
 
 <br>[Appointments Scheduler App](https://github.com/Joshugoi/Appointment-Scheduler-App)</b>
