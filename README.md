@@ -1,40 +1,58 @@
-<h1>Hello, I'm Joshua!</h1>
-<p>
-<a href="https://github.com/Joshugoi">
-</a>
-<a href="https://www.google.com/search?q=https://www.credly.com/users/joshua-banh/badges">
-</a>
+<h1 align="center">Hello, I'm Joshua! 👋</h1>
+
+<p align="center">
+  <strong>CloudOps & Backend Development Professional</strong><br>
+  M.S. in Cybersecurity | CySA+ | Security+
 </p>
 
-<h2>☁️ Cloud Engineer & DevOps Projects</h2>
-These projects demonstrate hands-on experience in building, containerizing, and automating the deployment of scalable applications on AWS.
+<p align="center">
+  <a href="https://linkedin.com/in/joshua-banh">LinkedIn</a> • 
+  <a href="https://www.credly.com/users/joshua-banh/badges">Credly Badges</a>
+</p>
 
-<br>[Appointments Scheduler App](https://github.com/Joshugoi/Appointment-Scheduler-App)</b>
-- Key Technologies: EKS, CI/CD (CodePipeline/Build), Docker, Django
+---
 
-- Description: Engineered a full CI/CD pipeline to automate testing and deployment for a Python/Django application. Successfully containerized the application and deployed it to a scalable Amazon EKS (Kubernetes) cluster, fronted by an ALB.
+## 🚀 Backend Development & CloudOps Projects
+*These projects demonstrate hands-on experience in building scalable backend architectures, containerization, and writing robust automation.*
 
-<br>[Customer Onboarding App](https://github.com/Joshugoi/Capestone1-Onboarding-Customer---AWS)</br>
- - Key Technologies: Lambda, API Gateway, S3, Textract, Rekognition
+### [TCG Inventory Management Engine](https://github.com/Joshugoi/Repo-Name-Here)
+- **Tech Stack:** Python, PostgreSQL, Docker, GitHub Actions, Third-Party APIs
+- **Description:** Architected a containerized inventory management application featuring a rate-optimized market scanning automation script. Designed a centralized PostgreSQL database to monitor 24-hour market volatility and developed dynamic financial analytics to guide competitive pricing strategies. Deployed via a custom CI/CD pipeline.
 
-- Description: Developed a secure, serverless backend to automate document validation. Used AWS Lambda and SQS for asynchronous processing, and integrated Amazon Textract and Rekognition for automated data extraction and facial verification.
+### [Custom IT Service Management Platform](https://github.com/Joshugoi/Repo-Name-Here) *(In Progress)*
+- **Tech Stack:** Go, Python, Docker, Terraform
+- **Description:** Architecting a modular, open-source service management application. Utilizing Go and Python to build highly scalable backend core functionalities, while deploying the foundational infrastructure via Docker and Terraform to ensure a highly reproducible, provider-agnostic environment.
 
+### [Foundational AI Automation Agent](https://github.com/Joshugoi/Repo-Name-Here)
+- **Tech Stack:** Python, Gemini API, Terraform, Docker, AWS
+- **Description:** Developed an intelligent automation agent leveraging large language model APIs for core processing. Architected an automated MLOps deployment strategy to host the containerized agent securely on AWS.
 
-<h2>🛡️ Cybersecurity & Automation Projects</h2>
+---
 
-These projects focus on building defense-in-depth security architectures, threat detection, and automation using open-source tools and industry best practices.
+## ☁️ AWS Architecture & Serverless Deployments
+*Focusing on high-availability, continuous delivery (CI/CD), and Zero Trust infrastructure.*
 
-<b>[SOAR EDR](https://github.com/Joshugoi/SOAR-EDR)</b>
-- Objective: Designed and deployed a Security Orchestration, Automation, and Response (SOAR) solution integrated with Endpoint Detection and Response (EDR) tools.
+### [AWS Appointments Scheduler App](https://github.com/Joshugoi/Appointment-Scheduler-App)
+- **Tech Stack:** Amazon EKS (Kubernetes), Docker, AWS CodePipeline, CodeBuild, Django
+- **Description:** Engineered a secure continuous delivery pipeline for a Django web application. Orchestrated a scalable, containerized deployment strategy leveraging Docker and Amazon EKS, fronted by an Application Load Balancer (ALB).
 
-- Outcome: Automated threat detection, triaging, and mitigation workflows using LimaCharlie, Tines, and Microsoft Defender for Endpoint.
+### [AWS Customer Onboarding Architecture](https://github.com/Joshugoi/Capestone1-Onboarding-Customer---AWS)
+- **Tech Stack:** AWS Lambda, API Gateway, S3, SQS, Textract, Rekognition, IAM
+- **Description:** Designed a serverless backend infrastructure to automate document validation. Enforced strict security protocols by implementing IAM Least-Privilege policies and utilizing asynchronous processing for automated data extraction and facial verification.
 
-<b>[SOC Automation](https://github.com/Joshugoi/SOC-Automation-Project)</b>
-- Objective: Built a functional Security Operations Center (SOC) environment for XDR threat detection and incident response.
+---
 
-- Key Features: Centralized log ingestion and analysis with Wazuh (XDR), SOAR playbooks managed by Shuffle, and streamlined case management using TheHive.
+## 🛡️ Security Operations & Defense Architecture
+*Foundational projects focusing on defense-in-depth, threat detection, and security orchestration.*
 
-<b>[Active Directory](https://github.com/Joshugoi/Active-Directory-Project)</b>
-- Objective: Established a monitored Active Directory environment to practice vulnerability analysis and detection engineering.
+### [SOAR EDR Integration](https://github.com/Joshugoi/SOAR-EDR)
+- **Objective:** Designed and deployed a Security Orchestration, Automation, and Response (SOAR) solution integrated with EDR tools.
+- **Outcome:** Automated threat detection, triaging, and mitigation workflows using LimaCharlie, Tines, and Microsoft Defender for Endpoint.
 
-- Key Features: Configured Windows Server (GPO, DNS, DHCP), ingested logs into Splunk Free, and performed MITRE ATT&CK-mapped attack simulations using Kali Linux and Atomic Red Team.
+### [SOC Automation Environment](https://github.com/Joshugoi/SOC-Automation-Project)
+- **Objective:** Built a functional Security Operations Center (SOC) environment for XDR threat detection and incident response.
+- **Key Features:** Centralized log ingestion and analysis with Wazuh (XDR), SOAR playbooks managed by Shuffle, and streamlined case management using TheHive.
+
+### [Active Directory Vulnerability Lab](https://github.com/Joshugoi/Active-Directory-Project)
+- **Objective:** Established a monitored Active Directory environment to practice vulnerability analysis and detection engineering.
+- **Key Features:** Configured Windows Server (GPO, DNS, DHCP), ingested logs into Splunk Free, and performed MITRE ATT&CK-mapped attack simulations using Kali Linux and Atomic Red Team.
