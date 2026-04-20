@@ -15,7 +15,7 @@
 ## 🚀 Backend Development & CloudOps Projects
 *These projects demonstrate hands-on experience in building scalable backend architectures, containerization, and writing robust automation.*
 
-### [TCG Inventory Management Engine][(https://github.com/Joshugoi/TCG-Inventory-Management)]
+### [TCG Inventory Management Engine](https://github.com/Joshugoi/TCG-Inventory-Management)
 - **Tech Stack:** Python, PostgreSQL, Docker, GitHub Actions, Third-Party APIs
 - **Description:** Architected a containerized inventory management application featuring a rate-optimized market scanning automation script. Designed a centralized PostgreSQL database to monitor 24-hour market volatility and developed dynamic financial analytics to guide competitive pricing strategies. Deployed via a custom CI/CD pipeline.
 
